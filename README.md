@@ -38,8 +38,3 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-
-
-[twitter]: https://twitter.com/RanchoAtos
-[instagram]: https://instagram.com/lord_ranchoatos
-[linkedin]: https://www.linkedin.com/in/david-atolagbe-271b72222
