@@ -1,6 +1,6 @@
 ### Hi there 👋 I am David
 
-### Full stack web developer, software enggineer
+### Full stack developer.
 Welcome to my page, I am a self taught, goal achieving, passionate and determined guy. I enjoy solving problem and building stuffs that works. 
 
 - 🔭 I’m currently working on myself and a few personal projects.
@@ -38,19 +38,7 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 
-
-<br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="LordRanchoatos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LordRanchoatos&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [twitter]: https://twitter.com/RanchoAtos
 [instagram]: https://instagram.com/lord_ranchoatos
