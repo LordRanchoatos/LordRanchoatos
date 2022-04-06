@@ -8,14 +8,14 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 - 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
 - 🥅 2022 Goals: Learn more about web3
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
-- 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail:[atolagbedt](atolagbedt@gmail.com)
+- 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I am a very chilled person 😄. I enjoy good music, movies and Game.
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/RanchoAtos#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/RanchoAtos#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/RanchoAtos#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/RanchoAtos#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-atolagbe-271b72222#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-atolagbe-271b72222#gh-dark-mode-only)
