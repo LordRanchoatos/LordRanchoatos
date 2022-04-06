@@ -39,6 +39,9 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
