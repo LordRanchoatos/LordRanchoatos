@@ -6,7 +6,7 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 - 🔭 I’m currently working on myself and a few personal projects.
 - 🌱 I’m currently learning how to be a very versertile software engineer. 
 - 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Build more in the web3 space
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
