@@ -10,7 +10,7 @@ Welcome to my page, I am a self taught, goal achieving, passionate and determine
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am a very chilled person 😄. I enjoy good music, movies and Games.
+- ⚡ Fun fact: I am a very chilled person 😄. I enjoy science, good music, movies and Games.
 
 ### Connect with me:
 
