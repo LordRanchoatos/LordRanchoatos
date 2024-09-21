@@ -3,14 +3,14 @@
 ### Full stack developer.
 Welcome to my page, I am a self taught, goal achieving, passionate and determined guy. I enjoy solving problem and building stuffs that works. 
 
-- 🔭 I’m currently working on myself and a few personal projects.
-- 🌱 I’m currently learning how to be a very versertile software engineer. 
+- 🔭 I’m currently working on Sooseed a personal project aim at solving crowdfunding, donations and sponsorship (finance) problems/difficulty in my immediate community🏝️ and soon globally🌍.
+- 🌱 I’m currently learning how to be a versatile software engineer. 
 - 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
-- 🥅 2023 Goals: Build more in the web3 space
+- 🥅 2024 Goals: More in the WEB.3 | BLOCKCHAIN Projects. 
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am a very chilled person 😄. I enjoy science, good music, movies and Games.
+- ⚡ Fun fact: I am very chill 😄. I enjoy science, Tech (hardware & Software), good music and movies.
 
 ### Connect with me:
 
