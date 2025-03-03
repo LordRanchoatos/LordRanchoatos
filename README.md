@@ -3,10 +3,10 @@
 ### Full stack developer.
 Welcome to my page, I am a self taught, goal achieving, passionate and determined guy. I enjoy solving problem and building stuffs that works. 
 
-- 🔭 I’m currently working on Sooseed a personal project aim at solving crowdfunding, donations and sponsorship (finance) problems/difficulty in my immediate community🏝️ and soon globally🌍.
+- 🔭 I’m currently working on Sooseed a startup aim at solving crowdfunding, donations and sponsorship (finance) difficulty/problems in my Africa starting from Nigeria🏝️.
 - 🌱 I’m currently learning how to be a versatile software engineer. 
 - 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
-- 🥅 2024 Goals: More in the WEB.3 | BLOCKCHAIN Projects. 
+- 🥅 2025 Goals: Grow Sooseed to an international product | More WEB.3 | BLOCKCHAIN Projects. 
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
