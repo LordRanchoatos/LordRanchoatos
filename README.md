@@ -1,12 +1,12 @@
 ### Hi there 👋 I am David
 
-### Full stack developer.
+### Tech entrepreneur and a Full stack Software Engineer.
 Welcome to my page, I am a self taught, goal achieving, passionate and determined guy. I enjoy solving problem and building stuffs that works. 
 
-- 🔭 I’m currently working on Sooseed a startup aim at solving crowdfunding, donations and sponsorship (finance) difficulty/problems in my Africa starting from Nigeria🏝️.
-- 🌱 I’m currently learning how to be a versatile software engineer. 
-- 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
-- 🥅 2025 Goals: Grow Sooseed to an international product | More WEB.3 | BLOCKCHAIN Projects. 
+- 🔭 I’m currently building Sooseed a startup aim at solving crowdfunding, donations and sponsorship (finance) difficulty/problems in my Africa starting from Nigeria🏝️.
+- 🌱 I’m currently learning how to be a versatile senior software engineer. 
+- 👯 I’m Opened to collaborate on projects/startup that would make me think more, code less and add more to my bank balance.
+- 🥅 2026 Goals: Grow Sooseed to an international product, Proceess over 1B Naira | More WEB.3 | BLOCKCHAIN Projects. 
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 📫 How to reach me: twitter: [@RanchoAtos](http://www.twitter.com/RanchoAtos) and gmail: [atolagbedt](atolagbedt@gmail.com)
 - 😄 Pronouns: Him/He
